@@ -1,0 +1,119 @@
+
+#create h2{
+	text-align: center;
+	font-size: 26px;
+	font-family: helvetica;
+}
+
+#elem {
+		position: relative;
+		overflow: auto;
+		left : 10px;
+		top: 5px;
+		height: 550px;
+		width: 1200px;
+		border: solid;
+		border-color: red;
+		cursor: pointer;
+		font-size: 16px;
+
+}
+
+#submitB {
+		position: relative;
+		top: 480px;
+		left: 10px;
+
+}
+
+#text {
+		position: relative;
+		left: 20px;
+
+}
+
+#password {
+		position: relative;
+		left: 40px;
+	}
+
+
+#select {
+
+		position: relative;
+		left : 60px;
+}
+
+#radio {
+
+		position: relative;
+		left: 80px;
+}
+
+#check {
+
+		position: relative;	
+		left: 100px;
+}
+
+#file{
+	position: relative;
+	left: 120px;
+}
+
+#textArea{
+	position: relative;	
+	left: 140px;
+}
+
+#lbInput {
+		position: absolute;;
+		left: 5px;
+		top : 130px;
+
+}
+
+#lbPass{
+	position: absolute;
+	left: 5px;
+	top: 200px;
+}
+
+#textPass{
+	position: absolute;;
+	top: 230px;
+	left: 10px;
+
+
+}
+
+#lbSelect{
+	position: absolute;
+	top: 260px;
+	left: 10px;
+
+}
+
+#options{
+	position: absolute;
+	top: 260px;
+	left: 50px;
+}
+
+
+#checkB{
+	position: relative;;
+	top: 350px;
+	
+}
+
+#radioB{
+	position: relative;
+	top: 400px;
+}
+
+#tA{
+	position: relative;;
+	tope : 500px;
+
+}
